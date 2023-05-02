@@ -1,0 +1,11 @@
+.chart-container {
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+
+#myChart {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
